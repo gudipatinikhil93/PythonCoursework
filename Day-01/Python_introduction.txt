@@ -1,0 +1,161 @@
+Python Short Notes
+
+Introduction
+
+Python is a high-level, interpreted, general-purpose programming
+language. It is easy to learn because of its simple syntax. It was
+created by Guido van Rossum in 1991. Python is widely used for web
+development, artificial intelligence (AI), data science, automation,
+software development, and scripting.
+
+------------------------------------------------------------------------
+
+Features of Python
+
+-   Easy to Learn – Python has a simple and readable syntax.
+-   Interpreted – It executes code line by line.
+-   High-Level Language – Memory management is handled automatically.
+-   Object-Oriented – Supports classes and objects.
+-   Portable – Runs on Windows, Linux, and macOS.
+-   Free and Open Source – Anyone can use and modify Python.
+-   Large Library Support – Provides many built-in modules and packages.
+-   Dynamically Typed – Variable types do not need to be declared.
+-   Cross-Platform – The same code works on different operating systems.
+-   Extensible – Can be integrated with languages like C, C++, and Java.
+
+------------------------------------------------------------------------
+
+Programming Paradigms
+
+Procedural Programming
+
+Procedural programming is a programming style where a program is written
+as a collection of functions. It focuses on step-by-step execution of
+instructions.
+
+Example: C
+
+Object-Oriented Programming (OOP)
+
+Object-oriented programming organizes programs using classes and
+objects. It focuses on combining data and behavior into a single unit.
+
+Examples: Python, Java, C++
+
+------------------------------------------------------------------------
+
+OOP Concepts
+
+Class
+
+A class is a blueprint for creating objects.
+
+Object
+
+An object is a real instance of a class.
+
+Encapsulation
+
+Encapsulation is the process of wrapping data and methods into a single
+unit called a class.
+
+Abstraction
+
+Abstraction means hiding unnecessary implementation details and showing
+only the essential features.
+
+Inheritance
+
+Inheritance is the process by which one class acquires the properties
+and methods of another class.
+
+Polymorphism
+
+Polymorphism allows the same method to perform different actions
+depending on the object.
+
+------------------------------------------------------------------------
+
+Types of Inheritance
+
+-   Single Inheritance – One child class inherits from one parent class.
+-   Multiple Inheritance – One child class inherits from multiple parent
+    classes.
+-   Multilevel Inheritance – A child class inherits from a parent class,
+    which itself inherits from another class.
+-   Hierarchical Inheritance – Multiple child classes inherit from the
+    same parent class.
+-   Hybrid Inheritance – A combination of two or more inheritance types.
+
+------------------------------------------------------------------------
+
+Python Terms
+
+Variable
+
+A variable is used to store data.
+
+Identifier
+
+An identifier is the name given to variables, functions, classes, or
+other objects.
+
+Literal
+
+A literal is a fixed value such as 10, “Hello”, or True.
+
+Comment
+
+A comment is a note written in the program that is ignored by Python.
+Single-line comments begin with the # symbol.
+
+------------------------------------------------------------------------
+
+Advantages of Python
+
+-   Easy to read and write.
+-   Requires less code compared to many other programming languages.
+-   Has a large community for support.
+-   Provides a huge collection of libraries and frameworks.
+-   Suitable for both beginners and professionals.
+
+------------------------------------------------------------------------
+
+Applications of Python
+
+-   Web Development
+-   Data Science
+-   Artificial Intelligence (AI)
+-   Machine Learning
+-   Automation
+-   Game Development
+-   Cybersecurity
+-   Desktop Application Development
+-   Cloud Computing
+
+------------------------------------------------------------------------
+
+Quick Interview Definitions
+
+Python: A high-level, interpreted, object-oriented programming language.
+
+Class: A blueprint for creating objects.
+
+Object: An instance of a class.
+
+Encapsulation: Combining data and methods into a single unit.
+
+Abstraction: Hiding implementation details while showing essential
+features.
+
+Inheritance: Reusing the properties and methods of another class.
+
+Polymorphism: The same method behaves differently for different objects.
+
+Interpreter: A program that executes code line by line.
+
+High-Level Language: A programming language that is easy for humans to
+read and write.
+
+Dynamic Typing: A feature where the data type of a variable is
+determined automatically at runtime.

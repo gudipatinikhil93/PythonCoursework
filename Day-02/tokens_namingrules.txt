@@ -1,0 +1,43 @@
+token
+----------------------------
+it is a single unit of a program
+
+token categories:
+identifier
+operator
+keyword
+punctuation
+literal
+
+comments
+-------------------------------
+single line :
+#this is a single line comment
+
+multiline comment:
+'''
+this is a
+multiline
+comment
+'''
+
+
+identifier
+---------------------
+it is a name given to a variable,function,class,module,etc to identify it
+
+identifier rules:
+1. contains only uppercase, lowercase, _, digits
+2. no special characters are allowed
+3. identifier can start with lowercase, uppercase,_
+4. keywords are not allowed
+5. it is case-sensitive(m and M are different) 
+
+operators
+---------------------------------
+these are used to perform different operators
+types of operators are:
+arithmetic
+logical
+Boolean
+relational
