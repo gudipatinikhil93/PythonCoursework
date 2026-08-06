@@ -1,0 +1,83 @@
+Data Types in Python
+
+Numerical datatypes: int float complex
+Sequence datatypes : string list tuple
+Mapping datatypes : set dict
+Boolean datatypes : True False
+NoneType (empty value)
+
+Int datatype
+----------------------
+it is a number
+ex : a = 10
+
+Float datatype
+---------------------
+it is a number with decimal point
+ex : b = 12.4
+
+Complex 
+---------------------
+it is a value with real and imaginary part
+ex : c = 2+4j
+
+String
+--------------------
+it is a collection of characters
+it is immutable (memory address changes when its modified)
+it is enclosed in single and double quotations
+ex : b = 'nikhil'
+
+List
+--------------------------
+collection of elements enclosed in square braces
+it is mutable
+it will allow duplicates
+it is dynamically sized
+it is heterogenous 
+it is ordered
+ex : l1 = [1,23.7,'string',[1,2,3]]
+
+tuple
+-------------------------
+it is a collection of elements enclosed in parenthesis
+it is immutable
+it is fixed size
+it is heterogenous
+it is ordered
+it allow duplicates
+ex : t2 = (1,2,3,4)
+
+Set
+-------------------------
+it is a collection of unique elements enclosed in curly braces
+it does not allow duplicates
+it is unordered
+it is dynamically sized
+it is heterogenous
+set is mutable
+ex : s2 = {2,3,4,6}
+
+Dict
+----------------------------
+it is a collection of elements stored in key value pairs
+it is mutable
+values can be duplicates, not keys
+it is ordered
+it is heterogenous
+it is dynamically sized
+ex : d3 = {'name' : 'nikhil', 'age' : 20}
+
+Boolean
+------------------------
+it is True or False
+ex:
+a = True
+b = False
+
+None
+-----------------------
+it is used to declared empty variable
+ex: a = None
+
+
