@@ -1,0 +1,58 @@
+Python operators
+---------------------------
+1. Arithmetic operators
+2. Relational operators
+3. Bitwise Operators
+4. Identity operators
+5. Membership operators
+6. Assignment operators
+7. Comparison operators
+
+Arithmetic operators
+------------------------
+1. Addition ex: a+b
+2. Subtraction ex: a-b
+3. Multiplication ex: a*b
+4. Division ex: a/b note: output will be in float
+5. Floor Division ex: a//b note: decimal part is removed
+6. Modulo ex: a%b note: it is the reminder part in division
+
+Comparison operators
+--------------------------
+1. Greater than ex: a>b
+2. Less than ex: a<b
+3. Greater than or equal to ex: a>=b
+4. Less than or equal to ex: a<=b
+5. Equal to Equal to ex: a==b
+6. Not Equal to ex: a!=b 
+all the outputs will be in Boolean only
+
+Bitwise operators
+--------------------------
+1. & ex: a&b note: all the bits of the numbers should result in True
+2. | ex: a|b note: any one of the bits should result in True
+3. ~ ex: the positive results in negative and vice versa
+4. ^ ex: a^b note: different bits give 1, same bits give 0
+5. >> ex: a>>b note: bits are shifted to right
+6. << ex: a<<b note: bits are shifted to left
+
+Membership operators
+---------------------------
+1. in ex: 's' in 'aeiou'
+2. not in ex: a not in b
+
+Identity Operators
+--------------------------
+1. id(a) note: it shows the object reference
+
+
+Assignment operators
+-------------------------
+1. +=
+2. -+
+3. /=
+4. //=
+5. *=
+6. **=
+ 
+
