@@ -1,0 +1,44 @@
+Conditional statements
+-----------------------------
+1. simple if
+2. if else
+3. elif ladder
+4. nested if
+
+------------------------------------
+
+1. simple if
+if condition:
+    statements
+
+------------------------------------
+
+2. if else
+if condition:
+    statements if True
+else:
+    statements if False
+
+-------------------------------------
+
+3. elif ladder
+if condition1:
+    statements
+elif condition2:
+    statements
+else:(optional)
+    statements
+
+--------------------------------------
+
+4. nested if
+if condition:
+    if condition:
+        statements
+    else:
+        statements
+else:
+    
+    
+--------------------------------------
+
